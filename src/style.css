@@ -1,5 +1,9 @@
 @import url("assets/font/stylesheet.css");
 
+:root {
+    font-size: 40px;
+}
+
 * {
     font-family: "zihun100", Arial, Helvetica, sans-serif;
 }
